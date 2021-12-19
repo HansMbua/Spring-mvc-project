@@ -1,0 +1,2 @@
+com.example.mvcproject.HelloServlet=org.springframework.stereotype.Component
+com.example.mvcproject.studentController=org.springframework.stereotype.Component
